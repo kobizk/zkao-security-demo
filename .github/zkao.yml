@@ -1,0 +1,3 @@
+advisories:
+  - repository: zksecurity/zkao-sdk
+  - repository: zksecurity/zkao-action
